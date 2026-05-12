@@ -1,5 +1,5 @@
 # 3PMonitor
-Simple terminal CPU/RAM monitor for Linux (Parrot OS)
+Simple terminal CPU/RAM monitor for Linux/Windows/MacOS
 
 Requirements:
 - Python 3.8+
