@@ -4,6 +4,7 @@ Simple terminal CPU/RAM monitor for Linux (Parrot OS)
 Requirements:
 - Python 3.8+
 - psutil
+- curses
 
 Install (system-wide): <br>
 sudo mv 3pmonitor /usr/local/bin/3pmonitor <br>
